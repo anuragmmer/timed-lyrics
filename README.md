@@ -1,6 +1,6 @@
 # Timed Transcription and Lyrics Integration
 
-This repository contains two scripts: a Python script (`transcribe.py`) for transcribing audio files into timed text format, and a JavaScript (JSX) script (`timedLyrics.jsx`) that generates timed text layers for use in Adobe After Effects. The tools make it easier to handle large transcription tasks and speed up video post-production, especially for lyric videos or time-coded captions. 
+This repository contains two scripts: a Python script (`transcribe.py`) for transcribing audio files into timed text format, and a JavaScript (JSX) script (`timedLyrics.jsx`) that generates timed text layers for use in Adobe After Effects. The tools make it easier to handle large transcription tasks and speed up video post-production, especially for lyric videos or time-coded captions. Not the most accurate, but it completes 96% of the task. You may still need to fix the transcription occasionally.
 
 ## Overview
 
