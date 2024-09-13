@@ -109,5 +109,6 @@ This script is designed to run inside Adobe After Effects to automate the proces
 - The Python script uses the medium-sized Whisper model for better transcription accuracy, but you can change the model if needed.
 - Both scripts handle large files efficiently, with duplicate removal and optimal performance considerations.
 - The Whisper model will be downloaded on your system first ~ 1.2GB. [Learn More](https://github.com/openai/whisper)
+- Formatted &  Edited by my co-author: ChatGPT
 
 
